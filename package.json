@@ -16,12 +16,10 @@
     ],
     "extensionPack": [
         "editorconfig.editorconfig",
-        "mikestead.dotenv",
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
         "stylelint.vscode-stylelint",
         "pivotal.vscode-manifest-yaml",
-        "rbbit.typescript-hero",
-        "infeng.vscode-react-typescript"
+        "rbbit.typescript-hero"
     ]
 }
