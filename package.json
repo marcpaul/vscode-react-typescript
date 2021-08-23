@@ -1,0 +1,27 @@
+{
+    "name": "react-typescript",
+    "displayName": "react-typescript",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "marcpaul",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marcpaul/vscode-react-typescript.git"
+    },
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "editorconfig.editorconfig",
+        "mikestead.dotenv",
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "stylelint.vscode-stylelint",
+        "pivotal.vscode-manifest-yaml",
+        "rbbit.typescript-hero",
+        "infeng.vscode-react-typescript"
+    ]
+}
